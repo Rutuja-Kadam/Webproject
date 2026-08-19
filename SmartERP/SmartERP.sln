@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36015.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartERP", "SmartERP\SmartERP.csproj", "{BFADA2C9-CBB9-4A05-89F0-6B13A1D60C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFADA2C9-CBB9-4A05-89F0-6B13A1D60C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFADA2C9-CBB9-4A05-89F0-6B13A1D60C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFADA2C9-CBB9-4A05-89F0-6B13A1D60C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFADA2C9-CBB9-4A05-89F0-6B13A1D60C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3DD23D-C70E-44AE-A755-76387E9B33EA}
+	EndGlobalSection
+EndGlobal
